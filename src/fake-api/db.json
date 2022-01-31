@@ -1,0 +1,240 @@
+{
+  "users": [
+    {
+      "fullName": "Adriel Gian Rama Hartana",
+      "username": "adrielgian",
+      "email": "adrielgian99@gmail.com",
+      "password": "Rumahku",
+      "role": "user",
+      "id": 1
+    },
+    {
+      "fullName": "Bilal Gusti",
+      "username": "bilalgusti123",
+      "email": "bilalgusti123@gmail.com",
+      "password": "Botolminum01",
+      "role": "user",
+      "id": 2
+    },
+    {
+      "fullName": "Ary Juan",
+      "username": "juanAry90",
+      "email": "aryjuan42@gmail.com",
+      "password": "Remotetv41",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "fullName": "Admin Ganteng",
+      "username": "adminganteng",
+      "email": "adminganteng@gmail.com",
+      "password": "ToplesNastar15",
+      "role": "admin",
+      "id": 4
+    },
+    {
+      "fullName": "garry",
+      "username": "spongebob",
+      "email": "gary@mail.com",
+      "password": "password",
+      "role": "user",
+      "id": 5
+    },
+    {
+      "fullName": "Patrick",
+      "username": "patrick",
+      "email": "rock@mail.com",
+      "password": "password",
+      "role": "user",
+      "id": 6
+    },
+    {
+      "fullName": "poporo",
+      "username": "poporo",
+      "email": "poporo@mail.com",
+      "password": "password",
+      "role": "user",
+      "id": 7
+    },
+    {
+      "fullName": "poporo",
+      "username": "poporo",
+      "email": "poporo@mail.com",
+      "password": "password",
+      "role": "user",
+      "id": 8
+    },
+    {
+      "fullName": "Neem",
+      "username": "neem",
+      "email": "neem@mail.com",
+      "password": "password",
+      "role": "user",
+      "id": 9
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "productName": "Poecilotheria metallica",
+      "price": 300000,
+      "productImage": "https://images.tokopedia.net/img/cache/900/VqbcmM/2020/12/4/dc05443a-f66e-4e9b-9e50-3ffa3afb6176.jpg",
+      "description": "Hewan yang cocok dipelihara oleh expert keeper",
+      "category": "arthropoda"
+    },
+    {
+      "id": 2,
+      "productName": "Brachypelma emilia",
+      "price": 250000,
+      "productImage": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/10/2/6668dd51-3288-42c9-b44e-c3155a2ded75.jpg",
+      "description": "Hewan yang cocok dipelihara oleh beginners keeper",
+      "category": "arthropoda"
+    },
+    {
+      "id": 3,
+      "productName": "Grammostola pulchra",
+      "price": 2700000,
+      "productImage": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/12/13/8300c9ba-0f59-4f26-b0c1-b5e3e777f5c1.jpg",
+      "description": "Hewan yang cocok dipelihara oleh beginners keeper",
+      "category": "arthropoda"
+    },
+    {
+      "id": 4,
+      "productName": "Avicularia sp Kwitara River",
+      "price": 1500000,
+      "productImage": "https://images.tokopedia.net/img/cache/900/product-1/2019/12/6/7352419/7352419_d1071d32-9c2c-4547-b04e-527f7e72a68d_771_771.jpg",
+      "description": "Hewan yang cocok dipelihara oleh expert keeper",
+      "category": "arthropoda"
+    },
+    {
+      "id": 5,
+      "productName": "Chromatopelma cyaneopubescens",
+      "price": 750000,
+      "productImage": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/12/29/97ad0ef3-1186-48aa-a676-115aad899e86.jpg",
+      "description": "Hewan yang cocok dipelihara oleh beginneers keeper",
+      "category": "arthropoda"
+    },
+    {
+      "id": 6,
+      "productName": "Lasiodora parahybana",
+      "price": 400000,
+      "productImage": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/2/16/d11cfea5-3e78-47f4-b8e5-4364bd6178e8.jpg",
+      "description": "Hewan yang cocok dipelihara oleh beginneers keeper",
+      "category": "arthropoda"
+    },
+    {
+      "id": 7,
+      "productName": "Bearded Dragon Hypo leatherbackhet Trans redmonsterbloodline",
+      "price": 5500000,
+      "productImage": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/12/20/2ac69b2d-27d4-46be-8210-77738472e677.jpg",
+      "description": "Hewan yang cocok dipelihara oleh beginneers keeper",
+      "category": "reptil"
+    },
+    {
+      "id": 8,
+      "productName": "Ivory Super Yellow Belly YB poss Enchi Ball Python Ballpython Male",
+      "price": 5000000,
+      "productImage": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/6/23/fb41645f-f168-42be-b50d-683dddc6e20a.jpg",
+      "description": "Hewan yang cocok dipelihara oleh beginneers keeper",
+      "category": "reptil"
+    },
+    {
+      "id": 9,
+      "productName": "Baby Veiled Chameleon",
+      "price": 1550000,
+      "productImage": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/1/17/9137c573-f7e2-4076-8f8a-8e8cc4b5ad15.jpg",
+      "description": "Hewan yang cocok dipelihara oleh beginneers keeper",
+      "category": "reptil"
+    },
+    {
+      "id": 10,
+      "productName": "Banana Iguana",
+      "price": 6000000,
+      "productImage": "https://images.tokopedia.net/img/cache/900/product-1/2019/1/7/5088270/5088270_d22fe601-a069-4f07-9747-38b7b7b652da_960_960.jpg",
+      "description": "Hewan yang cocok dipelihara oleh beginneers keeper",
+      "category": "reptil"
+    },
+    {
+      "id": 11,
+      "productName": "Savannah Monitor",
+      "price": 1000000,
+      "productImage": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/7/5/f40040a1-b045-4eda-aa08-92ef8e21bc64.jpg",
+      "description": "Hewan yang cocok dipelihara oleh beginneers keeper",
+      "category": "reptil"
+    },
+    {
+      "id": 12,
+      "productName": "Savannah Monitor",
+      "price": 1000000,
+      "productImage": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/7/5/f40040a1-b045-4eda-aa08-92ef8e21bc64.jpg",
+      "description": "Hewan yang cocok dipelihara oleh beginneers keeper",
+      "category": "reptil"
+    },
+    {
+      "id": 13,
+      "productName": "Corn Snake Snow",
+      "price": 1000000,
+      "productImage": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/7/13/74ff7477-42ab-40cc-98eb-653f802aa382.jpg",
+      "description": "Hewan yang cocok dipelihara oleh beginneers keeper",
+      "category": "reptil"
+    },
+    {
+      "id": 14,
+      "productName": "Giant Gecko Halmahera",
+      "price": 200000,
+      "productImage": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/2/24/8718ff54-776f-4081-ae67-60f504fde8ff.jpg",
+      "description": "Hewan yang cocok dipelihara oleh beginneers keeper",
+      "category": "reptil"
+    },
+    {
+      "id": 15,
+      "productName": "Varanus Rudicollis",
+      "price": 470000,
+      "productImage": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/7/27/5e06995e-7cf7-4fca-82ec-43d5edbe0650.jpg",
+      "description": "Hewan yang cocok dipelihara oleh beginneers keeper",
+      "category": "reptil"
+    },
+    {
+      "id": 16,
+      "productName": "Hamster Roborovski",
+      "price": 28500,
+      "productImage": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/12/5/0a5f7ac1-8899-4518-a66f-1421a08830f3.jpg",
+      "description": "Hewan yang cocok dipelihara oleh beginneers keeper",
+      "category": "mamalia"
+    },
+    {
+      "id": 17,
+      "productName": "Sugar Glider Mozaic Joey",
+      "price": 1000000,
+      "productImage": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/12/14/4ec46add-2bea-4dcc-9e61-1a095c4e6f61.jpg",
+      "description": "Hewan yang cocok dipelihara oleh beginneers keeper",
+      "category": "mamalia"
+    },
+    {
+      "id": 18,
+      "productName": "Landak Mini",
+      "price": 260000,
+      "productImage": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/12/6/6aecb2d1-bd0b-4787-96ae-4cc1b80a3f60.jpg",
+      "description": "Hewan yang cocok dipelihara oleh beginneers keeper",
+      "category": "mamalia"
+    },
+    {
+      "id": 19,
+      "productName": "Anjing Pug",
+      "price": 7000000,
+      "productImage": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/6/5/7729093e-33b4-454e-b0fb-f7fff85ff276.jpg",
+      "description": "Hewan yang cocok dipelihara oleh beginneers keeper",
+      "category": "mamalia"
+    },
+    {
+      "id": 20,
+      "productName": "Kucing Calico Ragdoll",
+      "price": 3500000,
+      "productImage": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/12/15/84bf621b-7761-443e-a6cb-886fff79c30b.jpg",
+      "description": "Hewan yang cocok dipelihara oleh beginneers keeper",
+      "category": "mamalia"
+    }
+  ],
+  "transactions": [],
+  "carts": []
+}
